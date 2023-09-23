@@ -4,7 +4,7 @@
         header('location:../../');
     }
 ?>
-
+<script src="./"></script>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -239,6 +239,7 @@
     <script src="../../plugins/bundle/collapse.js"></script>
     <script src="../../plugins/bundle/sweetalert.js"></script>
     <script src="../../plugins/privacy/forPagesAdmin.js"></script>
+    <script src="../../plugins/privacy/logout.js"></script>
     <!-- <script>
         $("#order").click(function() {
             var InfoComplete = $("InfoComplete").val();

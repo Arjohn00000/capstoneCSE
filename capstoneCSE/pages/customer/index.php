@@ -202,6 +202,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="../../plugins/privacy/jquery.js"></script>
     <script src="../../plugins/privacy/forPagesCustomer.js"></script>
+    <script src="../../plugins/privacy/logout.js"></script>
     <!-- End Bootstrap -->
 </body>
 
